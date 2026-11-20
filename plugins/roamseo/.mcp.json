@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "roamseo": {
+      "type": "http",
+      "url": "https://app.roamseo.com/mcp"
+    }
+  }
+}
