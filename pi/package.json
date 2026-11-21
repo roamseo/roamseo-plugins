@@ -1,0 +1,24 @@
+{
+  "name": "roamseo-pi",
+  "version": "0.1.0",
+  "description": "SEO data and workflows for Pi: live keyword, SERP, backlink, rank and AI search data from RoamSEO, plus skills that turn it into decisions.",
+  "keywords": ["pi-package", "seo", "mcp", "keyword-research", "backlinks", "rank-tracking", "site-audit", "ai-visibility"],
+  "homepage": "https://roamseo.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roamseo/roamseo-plugins.git",
+    "directory": "pi"
+  },
+  "bugs": "https://github.com/roamseo/roamseo-plugins/issues",
+  "author": "RoamSEO <contact@roamseo.com>",
+  "license": "MIT",
+  "files": ["extensions", "skills", "README.md", "CHANGELOG.md", "LICENSE"],
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": ["./extensions/roamseo.ts"],
+    "skills": ["./skills"],
+    "image": "https://roamseo.com/social-card.jpg"
+  }
+}
