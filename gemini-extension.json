@@ -1,0 +1,11 @@
+{
+  "name": "roamseo",
+  "version": "1.0.29",
+  "description": "Live SEO data inside Gemini CLI: keyword and competitor research, site audits, rank tracking, backlinks, Search Console and AI answer visibility from RoamSEO.",
+  "mcpServers": {
+    "roamseo": {
+      "httpUrl": "https://app.roamseo.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
