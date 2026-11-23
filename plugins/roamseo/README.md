@@ -14,7 +14,7 @@ RoamSEO gives your agent real SEO data and guided workflows, so its advice is gr
 - Work with Google Search Console and Analytics data
 - Research AI prompts and track brand mentions, citations, and competitors
 
-The plugin includes twelve skills that guide your agent through complete SEO workflows, plus the hosted RoamSEO MCP server for live data and project management.
+The plugin includes thirteen skills that guide your agent through complete SEO workflows, plus the hosted RoamSEO MCP server for live data and project management.
 
 ## Connect
 
@@ -37,6 +37,7 @@ You need a RoamSEO account. The plugin package is free; RoamSEO plans and pay-as
 
 - AI prompt research
 - AI visibility audit
+- E-E-A-T audit
 - Competitive landscape
 - Competitor analysis
 - Keyword clustering

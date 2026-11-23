@@ -1,6 +1,6 @@
 {
   "name": "roamseo-pi",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "SEO data and workflows for Pi: live keyword, SERP, backlink, rank and AI search data from RoamSEO, plus skills that turn it into decisions.",
   "keywords": ["pi-package", "seo", "mcp", "keyword-research", "backlinks", "rank-tracking", "site-audit", "ai-visibility"],
   "homepage": "https://roamseo.com",

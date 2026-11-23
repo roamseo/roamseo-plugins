@@ -1,6 +1,6 @@
 # RoamSEO for Pi
 
-Ask Pi SEO questions and get answers built on real search data instead of guesses. This package wires Pi's built-in MCP client to [RoamSEO](https://roamseo.com) and ships a dozen skills that tell the agent how to work through common SEO jobs step by step.
+Ask Pi SEO questions and get answers built on real search data instead of guesses. This package wires Pi's built-in MCP client to [RoamSEO](https://roamseo.com) and ships thirteen skills that tell the agent how to work through common SEO jobs step by step.
 
 ## Install
 
@@ -34,7 +34,7 @@ No browser on the machine? Create a key under Settings → API keys in the RoamS
 
 ## What's inside
 
-**Skills** (in `skills/`): project setup, SEO coach, keyword research, keyword clustering, competitive landscape, competitor analysis, link prospecting, site audit, local SEO, AI prompt research, AI visibility audit and reporting. Pi loads them on demand when a request matches.
+**Skills** (in `skills/`): project setup, SEO coach, keyword research, keyword clustering, competitive landscape, competitor analysis, link prospecting, site audit, E-E-A-T audit, local SEO, AI prompt research, AI visibility audit and reporting. Pi loads them on demand when a request matches.
 
 **Extension** (`extensions/roamseo.ts`): a few lines that register `https://app.roamseo.com/mcp` with Pi, so there's nothing to copy into config files.
 
